@@ -1,15 +1,20 @@
 import sys
 import pygame
+from settings import Settings
+#import settings
 
 def run_game():
     #初始化pygame
     pygame.init()
+    aiSettings = Settings()
+
     #创建屏幕对象
-    screen = pygame.display.set_mode((1200, 800) )
-    pygame.display.set_caption("外星人入侵")
+    screen = pygame.display.set_mode((aiSettings.screen_width, aiSettings.screen_height) )
+    #pygame.display.set_caption(Settings.caption)  #错误写法，不能用“类名.属性”
+    pygame.display.set_caption(aiSettings.caption)
 
     #屏幕背景色
-    bg_color = (230, 230, 230)
+    bg_color = aiSettings.bg_color
 
     #游戏主循环
     while True:
