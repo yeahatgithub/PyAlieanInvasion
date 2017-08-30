@@ -1,7 +1,7 @@
 import sys
 import pygame
 from settings import Settings
-#import settings
+from ship import Ship
 
 def run_game():
     #初始化pygame
@@ -15,6 +15,8 @@ def run_game():
 
     #屏幕背景色
     bg_color = aiSettings.bg_color
+    #创建飞船对象，加载飞船图片
+    ship = Ship(screen)
 
     #游戏主循环
     while True:
@@ -24,6 +26,9 @@ def run_game():
                 sys.exit()
         #设定屏幕背景色
         screen.fill(bg_color)
+        #绘制飞船
+        ship.paint()
+
         #让最近绘制的屏幕可见
         pygame.display.flip()
 
