@@ -28,9 +28,15 @@ def on_key_down(event, ship, bullets):
     elif event.key == pygame.K_LEFT:
         ship.moving_left = True
     elif event.key == pygame.K_SPACE:
-        #生成一颗子弹
+        fire_bullet(bullets, ship)
+
+
+def fire_bullet(bullets, ship):
+    # 生成一颗子弹
+    if len(bullets) < ship.ai_settings.bullets_allowed:
         bullet = Bullet(ship.ai_settings, ship.screen, ship)
         bullets.add(bullet)
+
 
 def updateScreen(settings, screen, ship, bullets):
     # 设定屏幕背景色
