@@ -2,9 +2,9 @@ import pygame
 
 class Ship:
     '''飞船类，实现了飞船的大部分行为'''
-    def __init__(self, screen):
+    def __init__(self, ai_settings, screen):
         '''初始化飞船并设置其起始位置'''
-
+        self.ai_settings = ai_settings
         self.screen = screen
         #加载飞船图片，获取其包围矩形
         self.image = pygame.image.load('images/ship.bmp')
@@ -28,7 +28,7 @@ class Ship:
 
     def update(self):
         '''更新飞船的位置'''
-        if self.moving_right == True:
-            self.rect.centerx += 1
-        elif self.moving_left == True:
-            self.rect.centerx -= 1
+        if self.moving_right == True and self.rect.right < self.screen_rect.right:
+            self.rect.centerx += self.ai_settings.ship_speed_factor
+        elif self.moving_left == True and self.rect.left > 0:
+            self.rect.centerx -= self.ai_settings.ship_speed_factor

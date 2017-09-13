@@ -17,7 +17,7 @@ def run_game():
     #屏幕背景色
     bg_color = ai_settings.bg_color
     #创建飞船对象，加载飞船图片
-    ship = Ship(screen)
+    ship = Ship(ai_settings, screen)
 
     #游戏主循环
     while True:

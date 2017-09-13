@@ -7,3 +7,5 @@ class Settings:
         #屏幕背景色
         self.bg_color = (230, 230, 230)
         self.caption = "外星人入侵"
+
+        self.ship_speed_factor = 1.5
