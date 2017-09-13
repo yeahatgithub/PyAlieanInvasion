@@ -17,13 +17,15 @@ def run_game():
     pygame.display.set_caption(ai_settings.caption)
     #创建子弹编组
     bullets = Group()
+    #外星人编队
+    aliens = Group()
 
     #屏幕背景色
     bg_color = ai_settings.bg_color
     #创建飞船对象，加载飞船图片
     ship = Ship(ai_settings, screen)
-    #创建外星人
-    alien = Alien(ai_settings, screen)
+    #创建外星编队
+    gf.create_fleet(ai_settings, screen, ship, aliens)
 
     #游戏主循环
     while True:
@@ -34,7 +36,7 @@ def run_game():
         update_bullets(bullets)
 
         #绘制游戏画面
-        gf.updateScreen(ai_settings, screen, ship, bullets, alien)
+        gf.updateScreen(ai_settings, screen, ship, bullets, aliens)
 
 
 def update_bullets(bullets):
