@@ -1,10 +1,11 @@
-import sys
 import pygame
 from pygame.sprite import Group
+
+import gameFunctions as gf
+from gameFunctions import update_bullets
 from settings import Settings
 from ship import Ship
-import gameFunctions as gf
-from alien import Alien
+
 
 def run_game():
     #初始化pygame
@@ -33,20 +34,13 @@ def run_game():
         gf.check_events(ship, bullets)
         #更新飞船的位置
         ship.update()
-        update_bullets(bullets)
+        #更新子弹位置
+        gf.update_bullets(bullets)
+        #更新外星人位置
+        gf.update_aliens(ai_settings, aliens)
 
         #绘制游戏画面
         gf.updateScreen(ai_settings, screen, ship, bullets, aliens)
-
-
-def update_bullets(bullets):
-    # 更新子弹的位置
-    bullets.update()
-    # 删除已消失的子弹
-    for bullet in bullets.copy():
-        if bullet.rect.bottom <= 0:
-            bullets.remove(bullet)
-    # print(len(bullets))
 
 
 run_game()
