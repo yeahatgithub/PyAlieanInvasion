@@ -1,14 +1,15 @@
 import pygame
 import sys
+from bullet import Bullet
 
-def check_events(ship):
+def check_events(ship, bullets):
     '''处理键盘鼠标事件'''
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             sys.exit()
         elif event.type == pygame.KEYDOWN:  #一直按下右箭头键，不会持续发送KEYDOWN类型的事件
             #print("check_event(), handle KEYDOWN")
-            on_key_down(event, ship)
+            on_key_down(event, ship, bullets)
         elif event.type == pygame.KEYUP:  #是KEYUP, 不是K_UP
             on_key_up(event, ship)
 
@@ -20,18 +21,24 @@ def on_key_up(event, ship):
         ship.moving_left = False
 
 
-def on_key_down(event, ship):
+def on_key_down(event, ship, bullets):
     if event.key == pygame.K_RIGHT:  # 是event.key, 不是event.type
         ship.moving_right = True
         # print("check_event(), handle K_RIGHT")
     elif event.key == pygame.K_LEFT:
         ship.moving_left = True
+    elif event.key == pygame.K_SPACE:
+        #生成一颗子弹
+        bullet = Bullet(ship.ai_settings, ship.screen, ship)
+        bullets.add(bullet)
 
-
-def updateScreen(settings, screen, ship):
+def updateScreen(settings, screen, ship, bullets):
     # 设定屏幕背景色
     screen.fill(settings.bg_color)
     # 绘制飞船
     ship.paint()
+    #绘制子弹
+    for bullet in bullets.sprites():
+        bullet.draw_bullet()
     # 让最近绘制的屏幕可见
     pygame.display.flip()
