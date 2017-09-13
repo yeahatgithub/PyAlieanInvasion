@@ -29,6 +29,8 @@ def on_key_down(event, ship, bullets):
         ship.moving_left = True
     elif event.key == pygame.K_SPACE:
         fire_bullet(bullets, ship)
+    elif event.key == pygame.K_q:
+        sys.exit()
 
 
 def fire_bullet(bullets, ship):
@@ -38,7 +40,7 @@ def fire_bullet(bullets, ship):
         bullets.add(bullet)
 
 
-def updateScreen(settings, screen, ship, bullets):
+def updateScreen(settings, screen, ship, bullets, alien):
     # 设定屏幕背景色
     screen.fill(settings.bg_color)
     # 绘制飞船
@@ -46,5 +48,8 @@ def updateScreen(settings, screen, ship, bullets):
     #绘制子弹
     for bullet in bullets.sprites():
         bullet.draw_bullet()
+    #绘制外星人
+    alien.blitme()
+
     # 让最近绘制的屏幕可见
     pygame.display.flip()
