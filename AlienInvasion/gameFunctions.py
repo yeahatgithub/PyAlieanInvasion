@@ -155,7 +155,7 @@ def check_fleet_edges(ai_settings, aliens):
 
 def ship_hit(ai_settings, stats, screen, ship, aliens, bullets, sb):
     """响应被外星人撞到的飞船"""
-    print("ship left: ", stats.ships_left)
+    #print("ship left: ", stats.ships_left)
     if stats.ships_left > 0:
         # 将ships_left减1
         stats.ships_left -= 1
