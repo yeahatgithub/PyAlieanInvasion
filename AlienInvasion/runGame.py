@@ -8,7 +8,7 @@ from gameFunctions import update_bullets
 from settings import Settings
 from ship import Ship
 from scoreboard import Scoreboard
-
+#整个程序合计492行代码
 def run_game():
     #初始化pygame
     pygame.init()
