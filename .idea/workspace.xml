@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="170c6b2b-4f90-45cf-adf4-1d80d35efbe3" name="Default" comment="" />
+    <ignored path="HelloWorld.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HelloWorld" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="runGame.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AlienInvasion/runGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ProblemsAnswer" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20986. 用选择法排序十个数.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20923. 谁做的好事.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20922. 阿尔法乘积.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20921. 黑色星期五.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20882. 日期吻合吗.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20920. 单词个数统计.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20889. 流感传染.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20632. 乒乓球比赛.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20631. 换钱的交易.py" />
+        <option value="$PROJECT_DIR$/cgProblems/chap06/6-6-出现最多次的整数.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20565. 计算平均值.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20566. 数值变换.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20567. 前驱、后继字符.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20568. 转换整数.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20569. 计算空格、换行个数.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20570. 求和.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20571. 简易计算器.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20572. 正整数的打印.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20573. 找最大最小整数.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20574. 日期天数转换.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20575. N=ABXBA.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20576. 反弹高度.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20577. 判断可逆素数.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20578. 回文数.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20579. 打印正六边形.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20580. 求e的x次方的近似值.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20581. 矩形相交.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20582. 求差集.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20583. 删数问题.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20584. 扩展字符.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20585. 塔型魔方阵.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20586. 矩阵运算.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20587. 文件拷贝（文件名固定）.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20587. 文件拷贝（文件名固定）/fcopy.in" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20587. 文件拷贝（文件名固定）/20587. 文件拷贝（文件名固定）.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20590. 凸多边形面积.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20602. 列表操作.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20601. 统计整数出现次数.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20603. 电话薄排序.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20605. 猴子选大王.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20604. 学生记录排序.py" />
+        <option value="$PROJECT_DIR$/cgProblems/chap06/xtt.py" />
+        <option value="$PROJECT_DIR$/tutorialExamples/chap09/9-1-1-定义和使用类.py" />
+        <option value="$PROJECT_DIR$/tutorialExamples/chap09/9-1-2-学生类和对象.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20607. 字符出现次数统计.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20608. 字符串位置的查询.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20609. 按字典序排列文本.py" />
+        <option value="$PROJECT_DIR$/cgProblems/参考答案/20611. 输出文件的末尾行.py" />
+        <option value="$PROJECT_DIR$/tutorialExamples/chap10/10-1-1-读取整个文件.py" />
+        <option value="$PROJECT_DIR$/tutorialExamples/chap10/10-2-1-写入文件.py" />
+        <option value="$PROJECT_DIR$/tutorialExamples/chap10/10-1-2-文件路径.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonSamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonSamples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonSamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonSamples" type="462c0819:PsiDirectoryNode" />
+              <item name="AlienInvasion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonSamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonSamples" type="462c0819:PsiDirectoryNode" />
+              <item name="cgProblems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonSamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonSamples" type="462c0819:PsiDirectoryNode" />
+              <item name="Python入门经典习题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonSamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonSamples" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorialExamples" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AlienInvasion" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/612226/PycharmProjects/pythonSamples/cgProblems/参考答案/20657. antiprime.py" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="pythonSamples" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="pythonSamples" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\612226\PycharmProjects\pythonSamples\cgProblems\参考答案" />
+      <recent name="C:\Users\612226\PycharmProjects\pythonSamples\cgProblems\参考答案\20789. 单词检查" />
+      <recent name="C:\Users\612226\PycharmProjects\pythonSamples\cgProblems\chap10" />
+      <recent name="C:\Users\612226\PycharmProjects\pythonSamples\cgProblems\chap05" />
+      <recent name="C:\Users\612226\PycharmProjects\pythonSamples\cgProblems\sy-assignment5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\612226\PycharmProjects\pythonSamples\cgProblems\参考答案\20587. 文件拷贝（文件名固定）" />
+      <recent name="C:\Users\612226\PycharmProjects\pythonSamples\cgProblems\参考答案\21010. 文章格式修正" />
+      <recent name="C:\Users\612226\PycharmProjects\pythonSamples\cgProblems\参考答案\20636. 统计整数个数" />
+      <recent name="C:\Users\612226\PycharmProjects\pythonSamples\cgProblems\参考答案\31762. 文件行反序" />
+      <recent name="C:\Users\612226\PycharmProjects\pythonSamples\cgProblems\参考答案\20678. 文件拷贝（命令行参数）" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonSamples" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HelloWorld" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="170c6b2b-4f90-45cf-adf4-1d80d35efbe3" name="Default" comment="" />
+      <created>1474969136947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474969136947</updated>
+    </task>
+    <task id="LOCAL-00001" summary="完成的功能：&#10;1. 12.3.2节&#10;2. 屏幕显示和填充背景色">
+      <created>1504091426274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504091426274</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完成的功能：&#10;1. 12.3.3节&#10;2. 要记得区分 类.属性 和  对象.属性">
+      <created>1504095594684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504095594684</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成的功能：&#10;1. 12.4节&#10;2. 绘制飞船">
+      <created>1504096606308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504096606308</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完成的功能：&#10;1. 12.4节&#10;2. 绘制飞船">
+      <created>1504097188171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1504097188171</updated>
+    </task>
+    <task id="LOCAL-00005" summary="完成的功能：&#10;1. 12.5节&#10;2. 重构代码，抽取了2个函数">
+      <created>1504100280087</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1504100280087</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完成的功能：&#10;1. 12.6.3节&#10;2. 飞船左右移动">
+      <created>1504101817264</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1504101817264</updated>
+    </task>
+    <task id="LOCAL-00007" summary="完成的功能：&#10;1. 12.6.5节&#10;2. 飞船左右移动，不会移出屏幕。">
+      <created>1505294665569</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1505294665569</updated>
+    </task>
+    <task id="LOCAL-00008" summary="完成的功能：&#10;1. 12.6节全部">
+      <created>1505294984594</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1505294984594</updated>
+    </task>
+    <task id="LOCAL-00009" summary="完成的功能：&#10;1. 12.8.4&#10;2. 发射子弹">
+      <created>1505299422987</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1505299422987</updated>
+    </task>
+    <task id="LOCAL-00010" summary="完成的功能：&#10;1. 12章&#10;2. 飞船移动，发射子弹。">
+      <created>1505299984377</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1505299984377</updated>
+    </task>
+    <task id="LOCAL-00011" summary="完成的功能：&#10;1. 13.2节&#10;2. 绘制一个外星人">
+      <created>1505305986430</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1505305986430</updated>
+    </task>
+    <task id="LOCAL-00012" summary="完成的功能：&#10;1. 13.3节&#10;2. 绘制一群外星人">
+      <created>1505307809391</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1505307809391</updated>
+    </task>
+    <task id="LOCAL-00013" summary="完成的功能：&#10;1. 13.4节&#10;2. 一群外星人移动">
+      <created>1505310126482</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1505310126482</updated>
+    </task>
+    <task id="LOCAL-00014" summary="完成的功能：&#10;1. 13.5节&#10;2. 射杀外星人">
+      <created>1505310812433</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1505310812433</updated>
+    </task>
+    <task id="LOCAL-00015" summary="完成的功能：&#10;1. 13.6.3节&#10;2. 检测外星人撞到飞船或到达屏幕底部--重新开始游戏。">
+      <created>1505312103072</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1505312103072</updated>
+    </task>
+    <task id="LOCAL-00016" summary="完成的功能：&#10;1. 13章&#10;2. 游戏结束。&#10;&#10;下一步：&#10;显示Game Over">
+      <created>1505312423999</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1505312423999</updated>
+    </task>
+    <task id="LOCAL-00017" summary="完成的功能：&#10;1. 14章.除去最高得分和显示等级。&#10;2. 计分。生命数。&#10;">
+      <created>1505381513409</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1505381513409</updated>
+    </task>
+    <task id="LOCAL-00018" summary="完成的功能：&#10;1. 14章.除去最高得分和显示等级。&#10;2. 把子弹宽度减少到10。&#10;">
+      <created>1505381736127</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1505381736127</updated>
+    </task>
+    <task id="LOCAL-00019" summary="完成的功能：&#10;1. 14章.除去最高得分和显示等级。&#10;2. 删除了多余的print输出语句。&#10;">
+      <created>1505381773549</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1505381773549</updated>
+    </task>
+    <task id="LOCAL-00020" summary="完成的功能：&#10;1. 14章.除去最高得分和显示等级。&#10;2. 删除了多余的print输出语句。&#10;3. 代码行数492行。">
+      <created>1505801472860</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1505801472860</updated>
+    </task>
+    <task id="LOCAL-00021" summary="1. 原始版本&#10;2. 文件名标有错误两字的文件，修正错误后，要恢复到初始状态。">
+      <created>1505896534484</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1505896534484</updated>
+    </task>
+    <task id="LOCAL-00022" summary="1. 各章程序实例归入一个目录&#10;2. 增加了第10章。">
+      <created>1506412131143</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1506412131143</updated>
+    </task>
+    <task id="LOCAL-00023" summary="1. 各章程序实例归入一个目录&#10;2. 增加了第10章。">
+      <created>1507014607913</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1507014607914</updated>
+    </task>
+    <task id="LOCAL-00024" summary="1. 各章程序实例归入一个目录&#10;2. 增加了第10章。">
+      <created>1507081684176</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1507081684176</updated>
+    </task>
+    <task id="LOCAL-00025" summary="1. 第3章的示例程序进行了修订。&#10;2. 把 用input-split输入.py 放到第4章。">
+      <created>1507110138431</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1507110138431</updated>
+    </task>
+    <task id="LOCAL-00026" summary="1. 第3章的示例程序进行了修订。&#10;2. 第4章扩充了矩阵的两讲内容，3个示例。">
+      <created>1507518456884</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1507518456884</updated>
+    </task>
+    <task id="LOCAL-00027" summary="1. 添加了zip生成字典文件">
+      <created>1508292884788</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1508292884788</updated>
+    </task>
+    <task id="LOCAL-00028" summary="1. 10-2-2-写入多行">
+      <created>1511926415907</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1511926415907</updated>
+    </task>
+    <task id="LOCAL-00029" summary="1. 1-6章的参考答案&#10;2. 第7章课件例题修订和增加">
+      <created>1512100408078</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1512100408078</updated>
+    </task>
+    <task id="LOCAL-00030" summary="1. 第7章习题参考答案">
+      <created>1512120995679</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1512120995679</updated>
+    </task>
+    <task id="LOCAL-00031" summary="1. 第8,9,10章习题参考答案">
+      <created>1512374371882</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1512374371882</updated>
+    </task>
+    <task id="LOCAL-00032" summary="1. python题库参考答案 2018.4.2">
+      <created>1522633752748</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1522633752748</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.203125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25591883" sideWeight="0.5100423" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53114754" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.4947146" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27322406" sideWeight="0.48995772" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3981588" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32677597" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="完成的功能：&#10;1. 12.6.3节&#10;2. 飞船左右移动" />
+    <MESSAGE value="完成的功能：&#10;1. 12.6.5节&#10;2. 飞船左右移动，不会移出屏幕。" />
+    <MESSAGE value="完成的功能：&#10;1. 12.6节全部" />
+    <MESSAGE value="完成的功能：&#10;1. 12.8.4&#10;2. 发射子弹" />
+    <MESSAGE value="完成的功能：&#10;1. 12章&#10;2. 飞船移动，发射子弹。" />
+    <MESSAGE value="完成的功能：&#10;1. 13.2节&#10;2. 绘制一个外星人" />
+    <MESSAGE value="完成的功能：&#10;1. 13.3节&#10;2. 绘制一群外星人" />
+    <MESSAGE value="完成的功能：&#10;1. 13.4节&#10;2. 一群外星人移动" />
+    <MESSAGE value="完成的功能：&#10;1. 13.5节&#10;2. 射杀外星人" />
+    <MESSAGE value="完成的功能：&#10;1. 13.6.3节&#10;2. 检测外星人撞到飞船或到达屏幕底部--重新开始游戏。" />
+    <MESSAGE value="完成的功能：&#10;1. 13章&#10;2. 游戏结束。&#10;&#10;下一步：&#10;显示Game Over" />
+    <MESSAGE value="完成的功能：&#10;1. 14章.除去最高得分和显示等级。&#10;2. 计分。生命数。&#10;" />
+    <MESSAGE value="完成的功能：&#10;1. 14章.除去最高得分和显示等级。&#10;2. 把子弹宽度减少到10。&#10;" />
+    <MESSAGE value="完成的功能：&#10;1. 14章.除去最高得分和显示等级。&#10;2. 删除了多余的print输出语句。&#10;" />
+    <MESSAGE value="完成的功能：&#10;1. 14章.除去最高得分和显示等级。&#10;2. 删除了多余的print输出语句。&#10;3. 代码行数492行。" />
+    <MESSAGE value="1. 原始版本&#10;2. 文件名标有错误两字的文件，修正错误后，要恢复到初始状态。" />
+    <MESSAGE value="1. 各章程序实例归入一个目录&#10;2. 增加了第10章。" />
+    <MESSAGE value="1. 第3章的示例程序进行了修订。&#10;2. 把 用input-split输入.py 放到第4章。" />
+    <MESSAGE value="1. 第3章的示例程序进行了修订。&#10;2. 第4章扩充了矩阵的两讲内容，3个示例。" />
+    <MESSAGE value="1. 添加了zip生成字典文件" />
+    <MESSAGE value="1. 10-2-2-写入多行" />
+    <MESSAGE value="1. 1-6章的参考答案&#10;2. 第7章课件例题修订和增加" />
+    <MESSAGE value="1. 第7章习题参考答案" />
+    <MESSAGE value="1. 第8,9,10章习题参考答案" />
+    <MESSAGE value="1. python题库参考答案 2018.4.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. python题库参考答案 2018.4.2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tutorialExamples/chap03/3-2-2-删除列表元素.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cgProblems/chap09/9-编程题-1-复数加减.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cgProblems/chap10/10-8-旋转魔方阵-文件.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20632. 乒乓球比赛.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20631. 换钱的交易.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/chap06/6-6-出现最多次的整数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20565. 计算平均值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20566. 数值变换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20567. 前驱、后继字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20568. 转换整数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20569. 计算空格、换行个数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20570. 求和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20571. 简易计算器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20572. 正整数的打印.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20573. 找最大最小整数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20574. 日期天数转换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20575. N=ABXBA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20576. 反弹高度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20577. 判断可逆素数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20578. 回文数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20579. 打印正六边形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20580. 求e的x次方的近似值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20582. 求差集.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20581. 矩形相交.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20583. 删数问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20584. 扩展字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20585. 塔型魔方阵.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20586. 矩阵运算.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20587. 文件拷贝（文件名固定）/fcopy.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20587. 文件拷贝（文件名固定）/20587. 文件拷贝（文件名固定）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20587. 文件拷贝（文件名固定）/fcopy.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20590. 凸多边形面积.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20602. 列表操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20603. 电话薄排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20605. 猴子选大王.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20604. 学生记录排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/chap06/xtt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorialExamples/chap09/9-1-1-定义和使用类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorialExamples/chap09/9-1-2-学生类和对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20601. 统计整数出现次数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20607. 字符出现次数统计.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20608. 字符串位置的查询.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20609. 按字典序排列文本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/参考答案/20611. 输出文件的末尾行.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/chap08/8-1-奇数之和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorialExamples/chap10/10-1-data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorialExamples/chap10/10-2-data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorialExamples/chap10/10-2-3-追加文件内容.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorialExamples/chap10/10-2-1-写入文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorialExamples/chap10/chap10-data/10-1-2-files.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorialExamples/chap10/10-1-2-文件路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorialExamples/chap10/10-1-1-读取整个文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cgProblems/chap10/10-1-文件-加减法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlienInvasion/runGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
